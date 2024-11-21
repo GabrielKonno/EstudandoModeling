@@ -1,7 +1,3 @@
-### Documentação para o README do projeto
-
----
-
 # Comparação de Modelos de Regressão e Otimização com GridSearchCV
 
 Este projeto aplica técnicas de machine learning para resolver um problema de regressão utilizando diferentes modelos e otimização de hiperparâmetros. As etapas incluem o treinamento, avaliação e otimização de modelos de regressão para prever preços de casas com base em características do dataset.
@@ -88,10 +84,3 @@ Este projeto aplica técnicas de machine learning para resolver um problema de r
    pip install -r requirements.txt
    ```
 3. Execute o notebook no Jupyter ou Google Colab para reproduzir os resultados.
-
----
-
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões ou melhorias.
-
-Caso precise de ajustes, é só avisar! 😊
